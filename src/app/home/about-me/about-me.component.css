@@ -1,0 +1,22 @@
+.container-fluid{
+    background-color: #FFF;
+    padding-top: 1.5em;
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    margin: auto;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: .8em;
+}
+
+.info{
+    margin: auto;
+    margin-bottom: 2em;
+    width: 85%;
+    text-align: justify;
+    letter-spacing: .025rem;
+}

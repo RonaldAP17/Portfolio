@@ -1,0 +1,33 @@
+.container-fluid{
+    background-image: url(/assets/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35rem;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2em;
+}
+
+.text{
+    margin: auto;
+    color: #F2F2F2;
+    margin-top: 10em;
+    text-align: center;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.text > h2{
+    font-size: 1.3rem;
+}
+
+.image{
+    height: 12rem;
+    margin: auto;
+}
+
+
+
